@@ -10,10 +10,6 @@
 
 <img src='./src/assets/Geritch-home.png' />
 
-## Mobile Responsive
-
-<img src='./src/assets/Geritch-mobile-home.png' />
-
 
 ## Run Locally
 
